@@ -142,10 +142,11 @@ Projeto criado para a 2º unidade das cadeiras: Desenvolvimento Backend, Ciênci
                 └── main.jsx       # Chamada da aplicação
           
 ## Autores e contribuições:
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 Artur Ramos - [@Arturdev05](https://github.com/Arturdev05)<br>
 Carlos Eduardo - [@carlos-1ima](https://github.com/carlos-1ima)<br>
 Luiz Augusto - [@Louiexz](https://github.com/Louiexz)<br>
-Paulo Arthur -<br>
+Paulo Arthur - [@pauludelimaa](https://github.com/pauludelimaa)<br>
 Vinicius José - [@ViniciusRKX](https://github.com/ViniciusRKX)
+
+Contribuições restritas! Analisaremos issues e pull requests.
